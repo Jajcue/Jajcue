@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jajcue
-- 👀 I’m interested in Application development 
+- 👀 I’m interested in Mobile App development 
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on application development 
 - 📫 Reach me at jajbrian@gmail.com or +256782363645
